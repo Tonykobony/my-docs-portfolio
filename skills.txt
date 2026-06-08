@@ -1,0 +1,15 @@
+TECHNICAL SKILLS 
+=====================
+
+Versions control:
+-Git(basics,branching,merging)
+-Github(pullrequests,forks)
+
+programming languages
+-HTML(currently working on that)
+-CSS
+-Javascript 
+
+Tools:
+-commandline/Terminal
+
