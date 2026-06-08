@@ -1,0 +1,23 @@
+ ABOUT ME
+ ==============
+ Name:Antony wachira
+ 
+ Location:malindi,kenya
+
+ Current focus:learning Git and Version control
+
+
+
+ Background: 
+  
+ Am a nursing student but currently interested in equipping myself with
+ cyber security skills.Interested in Tech field enabling me to help in 
+ solving society problems
+
+ Goals:
+ 
+-Master Git breanching
+-Contribute to open source
+-build a portfolio of projects
+
+ 
