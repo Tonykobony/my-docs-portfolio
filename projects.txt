@@ -1,14 +1,1 @@
-PROJECTS
-
-Project 1:Personal portfolio website
-Description: A simple website built with HTML,CSS and Javascript 
-status:In progress
-
-project 2: Git learning repository
-Description: Tracking my journey learning Git
-status:in progress
-
-project 3: Data Analysis with pandas
-Description: Analyzed a CSV dataset to find trends 
-status: planning
-
+1. Personal portfolio website\n2. Task manager app\n3. Weather CLI tool
