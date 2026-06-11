@@ -1,0 +1,11 @@
+LEARNING GOALS
+----------------------
+Short-term (Next 3 months)
+know about the commands 
+know how the command works
+applying them in my work perfectly
+
+Long term (Next 12 months)
+create websites
+having may projects
+git branch feature-add-goals
