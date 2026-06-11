@@ -1,5 +1,1 @@
-*log
-.DS_Store
-Thumbs.db
-temp/
-backup/
+node_modules/\n.env\n*.log
