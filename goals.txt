@@ -1,5 +1,5 @@
 LEARNING GOALS
-----------------------
+-------------------
 Short-term (Next 3 months)
 know about the commands 
 know how the command works
