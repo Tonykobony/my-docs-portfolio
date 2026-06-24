@@ -1,1 +1,14 @@
-1. Personal portfolio website\n2. Task manager app\n3. Weather CLI tool
+
+ PROJECTS
+ ===========
+ 1.Project:Git learning Repository
+   Status: In Progress
+   Description:Tracking my journey learning Git
+
+ 2.Project:Portfolio website
+   Status:Planning
+   Description:Its about HTML page about me 
+
+ 3.Project:Personal web app
+   Status:Planning
+   Description:Handles files,strings and basic logic
