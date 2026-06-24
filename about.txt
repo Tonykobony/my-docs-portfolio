@@ -16,7 +16,7 @@
 
  Goals:
  
--Master Git breanching
+-Master Git branching
 -Contribute to open source
 -build a portfolio of projects
 
