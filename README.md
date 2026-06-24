@@ -1,2 +1,14 @@
-# Git Learning Repository
-\n## Goals\learn Git workflow\n## setup\n1. clone repo\n2. Run npm install
+ NAME
+ ==========
+ Antony wachira
+
+ Skills
+ ===========
+ .Javascript
+ .Git and Github
+ .Python
+
+ About
+ ===========
+ I am a begginer developer learning web development and version control.
+ I do enjoy how to collaborate using Git
