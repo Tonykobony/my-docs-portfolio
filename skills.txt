@@ -1,1 +1,16 @@
-python\njavascript\nGit\nHTML/CSS
+ TECHNICAL SKILLS
+ =====================
+ Version control:
+ 
+ -Git (basics, branching,merging)
+ -Github (pull requests, forks)
+
+ Programming Languages
+ 
+ -Javascript
+ -Python
+ -Git
+ 
+ Tools:
+
+ -Command lines/Terminal
